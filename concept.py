@@ -17,7 +17,7 @@ def rip_js_var(blob, varname):
 rmempty = True
 
 # Only consider a certain list of locations (False for statewide)
-# onlylook = [186, 195]
+#onlylook = [186, 195]
 onlylook = False
 
 # Which URL to use.  This is for Initial Permit 
